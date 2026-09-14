@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0016-3sum-closest) |
 | [0611-valid-triangle-number](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0611-valid-triangle-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0611-valid-triangle-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Greedy
 |  |
 | ------- |
