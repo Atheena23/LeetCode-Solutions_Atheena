@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0743-network-delay-time](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
 ## Design
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
