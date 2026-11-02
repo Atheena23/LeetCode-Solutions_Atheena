@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0743-network-delay-time) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
