@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0016-3sum-closest) |
 | [0611-valid-triangle-number](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0611-valid-triangle-number) |
+| [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1584-min-cost-to-connect-all-points) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -81,8 +82,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
