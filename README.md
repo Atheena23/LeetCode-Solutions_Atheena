@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0016-3sum-closest) |
+| [0037-sudoku-solver](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0037-sudoku-solver) |
 | [0611-valid-triangle-number](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0611-valid-triangle-number) |
 | [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1584-min-cost-to-connect-all-points) |
@@ -103,4 +104,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/1472-design-browser-history) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Atheena23/LeetCode-Solutions_Atheena/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
